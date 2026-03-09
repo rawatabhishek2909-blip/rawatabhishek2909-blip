@@ -38,7 +38,6 @@ Poetry tells the story of the soul."
 
 🌐 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/abhishek-rawat-5643482b5/
 GitHub: https://github.com/rawatabhishek2909-blip
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-rawat-5643482b5/)
