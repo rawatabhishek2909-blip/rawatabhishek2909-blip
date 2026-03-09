@@ -28,10 +28,13 @@ Exploratory Data Analysis (EDA)
 
 
 
+
 ✍️ A Thought From My Poetry
 
 "Data tells the story of numbers,
 Poetry tells the story of the soul."
+
+
 
 🌐 Connect With Me
 
