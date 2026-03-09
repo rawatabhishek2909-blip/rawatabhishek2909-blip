@@ -5,17 +5,27 @@ Namaste 🙏 I'm Abhishek Rawat. Welcome to my profile
 ✍️ Poet by heart who loves expressing ideas through words
 I enjoy discovering patterns in data and emotions alike — transforming raw information into insights and thoughts into poetry.
 
+
 🚀 Skills & Tools
 
 Python
+
 SQL
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Power BI
+
 Data Visualization
+
 Exploratory Data Analysis (EDA)
+
 
 
 ✍️ A Thought From My Poetry
